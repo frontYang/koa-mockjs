@@ -12,3 +12,18 @@
 ├─package.json
 ├─README.md
 ```
+
+```
+# 监听
+yarn start
+
+# 启动pm2
+yarn start:pm2
+
+# 停止pm2
+yarn stop:pm2
+
+# 删除pm2
+yarn delete:pm2
+
+```
