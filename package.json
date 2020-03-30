@@ -1,0 +1,19 @@
+{
+  "name": "koa_mockjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js",
+    "start:pm2": "pm2 start app.js",
+    "stop:pm2": "pm2 stop app",
+    "delete:pm2": "pm2 delete all"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-compose": "^4.1.0",
+    "koa-router": "^8.0.8",
+    "mockjs": "^1.1.0",
+    "pm2": "^4.2.3"
+  }
+}
