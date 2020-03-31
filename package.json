@@ -5,9 +5,9 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon app.js",
-    "start:pm2": "pm2 start app.js",
-    "stop:pm2": "pm2 stop app",
-    "delete:pm2": "pm2 delete all"
+    "start:pm2": "pm2 start app.js --name koa_mockjs",
+    "stop:pm2": "pm2 stop koa_mockjs",
+    "delete:pm2": "pm2 delete koa_mockjs"
   },
   "dependencies": {
     "koa": "^2.11.0",
