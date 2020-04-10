@@ -10,10 +10,12 @@
     "delete:pm2": "pm2 delete koa_mockjs"
   },
   "dependencies": {
+    "global": "^4.4.0",
     "koa": "^2.11.0",
     "koa-compose": "^4.1.0",
     "koa-router": "^8.0.8",
     "mockjs": "^1.1.0",
-    "pm2": "^4.2.3"
+    "pm2": "^4.2.3",
+    "prettier": "^2.0.4"
   }
 }

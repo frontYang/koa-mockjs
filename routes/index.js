@@ -1,6 +1,6 @@
 const compose = require('koa-compose')
 const glob = require('glob')
-const {resolve} = require('path')
+const { resolve } = require('path')
 
 module.exports = () => {
   let routers = []
@@ -21,7 +21,7 @@ module.exports = () => {
     .filter((value) => value.indexOf('index.js') === -1)
     .map((router) => {
       let curRouter = require(router)
-      curRouter.prefix(getPrefix(router))
+      curRouter.prefix('/api' + getPrefix(router))
       routers.push(curRouter.routes())
       routers.push(curRouter.allowedMethods())
     })
