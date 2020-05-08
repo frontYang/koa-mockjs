@@ -13,5 +13,5 @@ app.use(middlewareAll()).use(routesAll())
 
 // 开启服务器
 app.listen(PORT, () => {
-  console.log('http://localhost:' + PORT)
+  console.log('server start http://localhost:' + PORT)
 })

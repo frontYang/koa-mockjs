@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "label": "激活数",
+      "value": "active",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "激活成本",
+      "value": "active_cost",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "付费数",
+      "value": "pay",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "转化数",
+      "value": "convert",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "消耗",
+      "value": "cost",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        },
+        {
+          "label": "临近预算",
+          "value": "~budget",
+          "placeholder": "",
+          "type": "select",
+          "options": [
+            {
+              "label": "0.5倍预算",
+              "value": "0.5budget"
+            },
+            {
+              "label": "0.8倍预算",
+              "value": "0.8budget"
+            },
+            {
+              "label": "1倍预算",
+              "value": "1budget"
+            },
+            {
+              "label": "其他",
+              "value": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "转化成本",
+      "value": "convert_cost",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        },
+        {
+          "label": "高于出价",
+          "value": ">bid",
+          "placeholder": "",
+          "type": "select",
+          "options": [
+            {
+              "label": "1倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.2倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.5倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "其他",
+              "value": null
+            }
+          ]
+        },
+        {
+          "label": "低于出价",
+          "value": "<bid",
+          "placeholder": "",
+          "type": "select",
+          "options": [
+            {
+              "label": "1倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.2倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.5倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "其他",
+              "value": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "展示数",
+      "value": "show",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "点击数",
+      "value": "click",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "点击率",
+      "value": "click_radio",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "新增用户数",
+      "value": "new_user",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "新增成本",
+      "value": "new_user_cost",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        },
+        {
+          "label": "高于出价",
+          "value": ">bid",
+          "placeholder": "",
+          "type": "select",
+          "options": [
+            {
+              "label": "1倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.2倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.5倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "其他",
+              "value": null
+            }
+          ]
+        },
+        {
+          "label": "低于出价",
+          "value": "<bid",
+          "placeholder": "",
+          "type": "select",
+          "options": [
+            {
+              "label": "1倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.2倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "1.5倍出价",
+              "value": "1bid"
+            },
+            {
+              "label": "其他",
+              "value": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "付费金额",
+      "value": "pay_money",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "新增付费用户",
+      "value": "new_pay_user",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "新增付费金额",
+      "value": "new_pay_money",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    },
+    {
+      "label": "新增arpu",
+      "value": "new_arpu",
+      "rule": [
+        {
+          "label": "大于",
+          "value": ">",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "小于",
+          "value": "<",
+          "placeholder": "",
+          "type": "input"
+        },
+        {
+          "label": "介于",
+          "value": "<>",
+          "placeholder": "",
+          "type": "input2"
+        }
+      ]
+    }
+  ]
+}
