@@ -30,16 +30,86 @@ router.post('/get_estimate_audience', async (ctx, next) => {
   await next()
 })
 
+// 人群包
+router.get('/get_data_for_advertiser_id', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', 'direct_get_data_for_id.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+// 行为类目
+router.get('/get_action_category', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './get_action_category.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+// 兴趣类目
+router.get('/get_interest_category', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './get_interest_category.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+// 推荐
+router.get('/get_interest_action_keyword_suggest', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './get_interest_action_keyword_suggest.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+// 导入词包
+router.get('/data', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './toutiao_keyword_pack.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
 // 达人推荐
 router.get('/get_vibrato_suggest', async (ctx, next) => {
   let data = Mock.mock({
     'data|1-9': [
       {
-        id: '@id()',
-        num: '@character("number")亿',
-        name: '@cword(4)',
-        catagary: '@cword(2)',
-        avatar: 'https://dummyimage.com/35x35'
+        'id|+1': 1,
+        'num': '@character("number")亿',
+        'name': '@cword(4)',
+        'catagary': '@cword(2)',
+        'avatar': 'https://dummyimage.com/35x35'
       }
     ]
   })
