@@ -1,0 +1,507 @@
+{
+  "categories": [
+    {
+      "id": 928625647,
+      "cover_num_str": "1.4亿",
+      "children": [],
+      "value": "游戏",
+      "fans_num_str": "1.4亿"
+    },
+    {
+      "id": 928625647,
+      "cover_num_str": "1.4亿",
+      "children": [
+        {
+          "id": 928714106,
+          "cover_num_str": "0",
+          "children": [
+            {
+              "cover_num_str": "3251.7万",
+              "id": 928528532,
+              "value": "综合游戏",
+              "fans_num_str": "3251.7万"
+            }
+          ],
+          "value": "按类型",
+          "fans_num_str": "1.2亿"
+        }
+      ],
+      "value": "游戏",
+      "fans_num_str": "1.4亿"
+    },
+    {
+      "id": 928625647,
+      "cover_num_str": "1.4亿",
+      "children": [
+        {
+          "id": 928940129,
+          "cover_num_str": "0",
+          "children": [
+            {
+              "cover_num_str": "4290.2万",
+              "id": 928842800,
+              "value": "游戏其他",
+              "fans_num_str": "4290.2万"
+            }
+          ],
+          "value": "按题材",
+          "fans_num_str": "1.2亿"
+        }
+      ],
+      "value": "游戏",
+      "fans_num_str": "1.4亿"
+    }
+  ],
+  "authors": [
+    {
+      "author_name": "奶爸游戏",
+      "total_fans_num_str": "109.5万",
+      "cover_num_str": "109.5万",
+      "label_id": 61082270651,
+      "avatar": "https://p9-dy.byteimg.com/aweme/100x100/312ec00031ebafdb6d9f0.jpeg",
+      "aweme_id": "Mr_LYH722",
+      "category_name": "休闲益智,其他手游"
+    },
+    {
+      "author_name": "网易游戏",
+      "total_fans_num_str": "108.6万",
+      "cover_num_str": "108.6万",
+      "label_id": 61046759003,
+      "avatar": "https://p3-dy.byteimg.com/img/tos-cn-i-0813/bdde0e6d487a4888a3a9ab9d63f00a41~c5_100x100.jpeg?from=4010531038",
+      "aweme_id": "NetEase_Games",
+      "category_name": "生存/大逃杀"
+    },
+    {
+      "author_name": "亲子游戏",
+      "total_fans_num_str": "91.7万",
+      "cover_num_str": "91.7万",
+      "label_id": 55370968633,
+      "avatar": "https://p26-dy.byteimg.com/aweme/100x100/1cabc0007b7b7fd0b7e72.jpeg",
+      "aweme_id": "126234342",
+      "category_name": "创意"
+    },
+    {
+      "author_name": "游戏阿刚",
+      "total_fans_num_str": "66.8万",
+      "cover_num_str": "66.8万",
+      "label_id": 60533235669,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/1721d0004966284a23cec.jpeg",
+      "aweme_id": "wg11331144",
+      "category_name": "王者/lol,moba类"
+    },
+    {
+      "author_name": "游戏学长",
+      "total_fans_num_str": "55.3万",
+      "cover_num_str": "55.3万",
+      "label_id": 51777280169,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/2d14f0003d748f3dd900c.jpeg",
+      "aweme_id": "1252817304",
+      "category_name": "王者/lol,综合游戏"
+    },
+    {
+      "author_name": "游戏男孩",
+      "total_fans_num_str": "49.7万",
+      "cover_num_str": "49.7万",
+      "label_id": 59441508075,
+      "avatar": "https://p1-dy-ipv6.byteimg.com/aweme/100x100/2db9d0004644ee0ae20c6.jpeg",
+      "aweme_id": "31200912",
+      "category_name": "图文控"
+    },
+    {
+      "author_name": "游戏小白",
+      "total_fans_num_str": "46.2万",
+      "cover_num_str": "46.2万",
+      "label_id": 58636880383,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/2f6940001c7963646b7f1.jpeg",
+      "aweme_id": "101223178",
+      "category_name": "美食"
+    },
+    {
+      "author_name": "游戏君",
+      "total_fans_num_str": "39.4万",
+      "cover_num_str": "39.4万",
+      "label_id": 102942130351,
+      "avatar": "https://p9-dy.byteimg.com/aweme/100x100/facc00084b4b99b37a78.jpeg",
+      "aweme_id": "gamejun",
+      "category_name": "射击类,生存/大逃杀"
+    },
+    {
+      "author_name": "柯柯游戏",
+      "total_fans_num_str": "34.2万",
+      "cover_num_str": "34.2万",
+      "label_id": 55997763952,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/tos-cn-i-0813/fe6c40bfdc8144acafb6f1d2d542c649.jpeg",
+      "aweme_id": "100198643",
+      "category_name": "创意"
+    },
+    {
+      "author_name": "游戏酱",
+      "total_fans_num_str": "33.6万",
+      "cover_num_str": "33.6万",
+      "label_id": 105340065242,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/311550009b8c33d812867.jpeg",
+      "aweme_id": "1650154979",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "游戏君",
+      "total_fans_num_str": "31.2万",
+      "cover_num_str": "31.2万",
+      "label_id": 100405081841,
+      "avatar": "https://p26-dy.byteimg.com/aweme/100x100/bdca000726aa8d1c6360.jpeg",
+      "aweme_id": "1069303856",
+      "category_name": "综合游戏"
+    },
+    {
+      "author_name": "游戏工厂",
+      "total_fans_num_str": "25.6万",
+      "cover_num_str": "25.6万",
+      "label_id": 60423231770,
+      "avatar": "https://p26-dy.byteimg.com/aweme/100x100/1e14d000389d5bbed0138.jpeg",
+      "aweme_id": "YXGC",
+      "category_name": "王者/lol,射击类"
+    },
+    {
+      "author_name": "游戏汪",
+      "total_fans_num_str": "24.0万",
+      "cover_num_str": "24.0万",
+      "label_id": 97516532677,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/283e1000466447d3196ad.jpeg",
+      "aweme_id": "905937632",
+      "category_name": "沙盒类,游戏其他"
+    },
+    {
+      "author_name": "游戏道长",
+      "total_fans_num_str": "23.0万",
+      "cover_num_str": "23.0万",
+      "label_id": 58515751106,
+      "avatar": "https://p9-dy.byteimg.com/aweme/100x100/f67a0007c6d4b4fbe575.jpeg",
+      "aweme_id": "1G610",
+      "category_name": "王者/lol,moba类"
+    },
+    {
+      "author_name": "学玩游戏",
+      "total_fans_num_str": "22.9万",
+      "cover_num_str": "22.9万",
+      "label_id": 60991338363,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/313f20001bb819bf355d4.jpeg",
+      "aweme_id": "56481075",
+      "category_name": "休闲益智,休闲类"
+    },
+    {
+      "author_name": "游戏侠",
+      "total_fans_num_str": "20.3万",
+      "cover_num_str": "20.3万",
+      "label_id": 518574996979815,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/310760002d526f88b3676.jpeg",
+      "aweme_id": "Youxi_xia",
+      "category_name": "综合游戏"
+    },
+    {
+      "author_name": "游戏达人",
+      "total_fans_num_str": "14.9万",
+      "cover_num_str": "14.9万",
+      "label_id": 23852743601,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/2d201000060037fc35e3f.jpeg",
+      "aweme_id": "yxdr001",
+      "category_name": "休闲益智"
+    },
+    {
+      "author_name": "推理游戏",
+      "total_fans_num_str": "14.8万",
+      "cover_num_str": "14.8万",
+      "label_id": 61260272544,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/b6be0002fe675348a37b.jpeg",
+      "aweme_id": "1300383875",
+      "category_name": "图文控"
+    },
+    {
+      "author_name": "游戏鸡",
+      "total_fans_num_str": "13.7万",
+      "cover_num_str": "13.7万",
+      "label_id": 1297059015824179,
+      "avatar": "https://p1-dy-ipv6.byteimg.com/aweme/100x100/2df050003093f9cfd09e8.jpeg",
+      "aweme_id": "NewGame",
+      "category_name": "休闲益智,休闲类"
+    },
+    {
+      "author_name": "豹哥游戏",
+      "total_fans_num_str": "13.7万",
+      "cover_num_str": "13.7万",
+      "label_id": 60456432476,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/1b5e800053d50f8f9c82b.jpeg",
+      "aweme_id": "24366389",
+      "category_name": "游戏其他"
+    },
+    {
+      "author_name": "小蓝游戏",
+      "total_fans_num_str": "13.5万",
+      "cover_num_str": "13.5万",
+      "label_id": 61323642526,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2e9f20007c2ef58085b29.jpeg?from=4010531038",
+      "aweme_id": "19497212",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "游戏君",
+      "total_fans_num_str": "13.2万",
+      "cover_num_str": "13.2万",
+      "label_id": 72376608890,
+      "avatar": "https://p26-dy.byteimg.com/aweme/100x100/3101b0002bb1582005e39.jpeg",
+      "aweme_id": "98183797",
+      "category_name": "游戏"
+    },
+    {
+      "author_name": "熊三游戏",
+      "total_fans_num_str": "12.7万",
+      "cover_num_str": "12.7万",
+      "label_id": 60856987465,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/a65f00052d781ed7dba3.jpeg",
+      "aweme_id": "587809411",
+      "category_name": "搞笑剧情"
+    },
+    {
+      "author_name": "游戏真好",
+      "total_fans_num_str": "12.0万",
+      "cover_num_str": "12.0万",
+      "label_id": 51792241781,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/314450006b93038ca7de5.jpeg?from=4010531038",
+      "aweme_id": "youxizhenhao",
+      "category_name": "休闲益智,休闲类"
+    },
+    {
+      "author_name": "小宇游戏",
+      "total_fans_num_str": "11.3万",
+      "cover_num_str": "11.3万",
+      "label_id": 4466138787,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/311e0000703644b6d14e1.jpeg",
+      "aweme_id": "xyyx233",
+      "category_name": "沙盒类"
+    },
+    {
+      "author_name": "游戏菌",
+      "total_fans_num_str": "10.3万",
+      "cover_num_str": "10.3万",
+      "label_id": 96815748303,
+      "avatar": "https://p26-dy.byteimg.com/aweme/100x100/2f091000184cfc4a75ef4.jpeg",
+      "aweme_id": "1190777111",
+      "category_name": "休闲类"
+    },
+    {
+      "author_name": "游戏人生",
+      "total_fans_num_str": "9.5万",
+      "cover_num_str": "9.5万",
+      "label_id": 59122603100,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/f7f000160d24622d8782.jpeg",
+      "aweme_id": "dyes",
+      "category_name": "射击类,军事战争"
+    },
+    {
+      "author_name": "游戏君",
+      "total_fans_num_str": "8.7万",
+      "cover_num_str": "8.7万",
+      "label_id": 97084143619,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/98a10005a39090729a65.jpeg",
+      "aweme_id": "StellaMoon",
+      "category_name": "射击类"
+    },
+    {
+      "author_name": "老何游戏",
+      "total_fans_num_str": "8.5万",
+      "cover_num_str": "8.5万",
+      "label_id": 58962806936,
+      "avatar": "https://p9-dy.byteimg.com/aweme/100x100/hotsoon-avatar/64667000b2f441d188efa971b5ee20f2.jpeg",
+      "aweme_id": "95767873",
+      "category_name": "综合游戏,军事战争"
+    },
+    {
+      "author_name": "瑞洁游戏",
+      "total_fans_num_str": "7.0万",
+      "cover_num_str": "7.0万",
+      "label_id": 56897842549,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/2f53900020c1a334ee87c.jpeg",
+      "aweme_id": "RuiJie88",
+      "category_name": "射击类"
+    },
+    {
+      "author_name": "游戏源",
+      "total_fans_num_str": "6.9万",
+      "cover_num_str": "6.9万",
+      "label_id": 95628659685,
+      "avatar": "https://p3.pstatp.com/thumb/59470000abe77b066a25",
+      "aweme_id": "922540807",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "阿Q游戏",
+      "total_fans_num_str": "6.7万",
+      "cover_num_str": "6.7万",
+      "label_id": 61566139923,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/30e0f00061e3f6b2ea7df.jpeg",
+      "aweme_id": "game1920",
+      "category_name": "单机主机"
+    },
+    {
+      "author_name": "游戏机",
+      "total_fans_num_str": "6.5万",
+      "cover_num_str": "6.5万",
+      "label_id": 91502407717,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/7bf600036420fcf4b50c.jpeg",
+      "aweme_id": "you_xi_ji",
+      "category_name": "休闲益智,休闲类"
+    },
+    {
+      "author_name": "游戏云",
+      "total_fans_num_str": "6.2万",
+      "cover_num_str": "6.2万",
+      "label_id": 4490054257350814,
+      "avatar": "https://p9.pstatp.com/thumb/ffbf00005963d378dcac",
+      "aweme_id": "dy56jg6do2mc",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "游戏莫莫",
+      "total_fans_num_str": "5.8万",
+      "cover_num_str": "5.8万",
+      "label_id": 61062232751,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/2e0c400032ff6e2d2b96d.jpeg",
+      "aweme_id": "577937249",
+      "category_name": "动漫创作者"
+    },
+    {
+      "author_name": "大白游戏",
+      "total_fans_num_str": "5.8万",
+      "cover_num_str": "5.8万",
+      "label_id": 25001216975,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2e03e00048ef9e8334e12.jpeg",
+      "aweme_id": "dabaiyouxi",
+      "category_name": "休闲类"
+    },
+    {
+      "author_name": "凌澈游戏",
+      "total_fans_num_str": "5.7万",
+      "cover_num_str": "5.7万",
+      "label_id": 58974836286,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2e48b00063080971ae2d0.jpeg",
+      "aweme_id": "27992276",
+      "category_name": "角色扮演类"
+    },
+    {
+      "author_name": "蔓姐游戏",
+      "total_fans_num_str": "5.5万",
+      "cover_num_str": "5.5万",
+      "label_id": 50422329430,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/283f7000291cc24026504.jpeg",
+      "aweme_id": "manjie331",
+      "category_name": "科幻/魔幻,射击类"
+    },
+    {
+      "author_name": "晓游戏",
+      "total_fans_num_str": "5.5万",
+      "cover_num_str": "5.5万",
+      "label_id": 93543309582,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2e7d7000294ae4177e01b.jpeg",
+      "aweme_id": "1144397230",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "游戏时光",
+      "total_fans_num_str": "5.4万",
+      "cover_num_str": "5.4万",
+      "label_id": 52469617688,
+      "avatar": "https://p29-dy.byteimg.com/aweme/100x100/2ea2e000809618be78fca.jpeg",
+      "aweme_id": "103208788",
+      "category_name": "好物推荐"
+    },
+    {
+      "author_name": "游戏人生",
+      "total_fans_num_str": "5.3万",
+      "cover_num_str": "5.3万",
+      "label_id": 60511822502,
+      "avatar": "https://p26-dy.byteimg.com/aweme/100x100/317fc0004bc759f8c8fcf.jpeg",
+      "aweme_id": "15712995",
+      "category_name": "随拍"
+    },
+    {
+      "author_name": "游戏酱",
+      "total_fans_num_str": "5.1万",
+      "cover_num_str": "5.1万",
+      "label_id": 105269333338,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/1ca3e00049fbdeb97fc09.jpeg",
+      "aweme_id": "1686033171",
+      "category_name": "丧尸,射击类"
+    },
+    {
+      "author_name": "游戏小卡",
+      "total_fans_num_str": "5.1万",
+      "cover_num_str": "5.1万",
+      "label_id": 58938962579,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/310c00004d32bf6bbf8e7.jpeg",
+      "aweme_id": "7576474",
+      "category_name": "休闲类"
+    },
+    {
+      "author_name": "泛游戏",
+      "total_fans_num_str": "5.0万",
+      "cover_num_str": "5.0万",
+      "label_id": 97473492645,
+      "avatar": "https://p1.pstatp.com/thumb/16ab00034be9c268422e",
+      "aweme_id": "1498010841",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "游戏易",
+      "total_fans_num_str": "5.0万",
+      "cover_num_str": "5.0万",
+      "label_id": 2009555625060071,
+      "avatar": "https://p0.pstatp.com/origin/3795/3033762272",
+      "aweme_id": "dyzaw0vobr4b",
+      "category_name": "其他"
+    },
+    {
+      "author_name": "爱游戏",
+      "total_fans_num_str": "4.7万",
+      "cover_num_str": "4.7万",
+      "label_id": 62966053340,
+      "avatar": "https://p3-dy-ipv6.byteimg.com/aweme/100x100/2df150002f891d8119c14.jpeg",
+      "aweme_id": "w1830004303",
+      "category_name": "休闲类"
+    },
+    {
+      "author_name": "游戏好玩",
+      "total_fans_num_str": "4.6万",
+      "cover_num_str": "4.6万",
+      "label_id": 18719166207,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/1722e0006ba2d9996bff7.jpeg",
+      "aweme_id": "208827304",
+      "category_name": "画师"
+    },
+    {
+      "author_name": "小游戏",
+      "total_fans_num_str": "4.5万",
+      "cover_num_str": "4.5万",
+      "label_id": 97739588087,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/aweme/100x100/20b73000882a9e2fa7bd9.jpeg",
+      "aweme_id": "878281073",
+      "category_name": "休闲类"
+    },
+    {
+      "author_name": "玩游戏",
+      "total_fans_num_str": "4.3万",
+      "cover_num_str": "4.3万",
+      "label_id": 106736976790,
+      "avatar": "https://p9-dy-ipv6.byteimg.com/obj/f6730013ce76551288e2",
+      "aweme_id": "15505GJ",
+      "category_name": "休闲类"
+    },
+    {
+      "author_name": "游戏君",
+      "total_fans_num_str": "3.8万",
+      "cover_num_str": "3.8万",
+      "label_id": 77265078282,
+      "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2f9cb00037c9ab85328c7.jpeg",
+      "aweme_id": "51Dou",
+      "category_name": "创意"
+    }
+  ]
+}

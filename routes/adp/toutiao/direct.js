@@ -86,6 +86,56 @@ router.get('/get_interest_action_keyword_suggest', async (ctx, next) => {
   await next()
 })
 
+router.get('/get_aweme_category', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './get_aweme_category.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+router.get('/get_aweme_category_top_author', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './get_aweme_category_top_author.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+router.get('/get_aweme_info', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(path.resolve(__dirname, '', './get_aweme_info.json'))
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
+router.get('/get_aweme_similar_author', async (ctx, next) => {
+  let data = []
+  try {
+    data = fs.readFileSync(
+      path.resolve(__dirname, '', './get_aweme_similar_author.json')
+    )
+  } catch (error) {
+    console.log(error)
+  }
+  ctx.success(JSON.parse(data))
+  await next()
+})
+
 // 导入词包
 router.get('/data', async (ctx, next) => {
   let data = []
