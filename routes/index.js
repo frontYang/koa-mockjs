@@ -18,7 +18,10 @@ module.exports = () => {
 
   glob
     .sync(resolve(__dirname, '', '**/*.js'))
-    .filter((value) => value.indexOf('index.js') === -1)
+    .filter(
+      (value) =>
+        value.indexOf('index.js') === -1 && value.indexOf('views.js') === -1
+    )
     .map((router) => {
       let curRouter = require(router)
       curRouter.prefix('/api' + getPrefix(router))

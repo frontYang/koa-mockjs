@@ -2,7 +2,7 @@ const KoaRouter = require('koa-router')
 const Mock = require('mockjs')
 const router = new KoaRouter()
 
-router.get('/test', async (ctx, next) => {
+router.get('/test1', async (ctx, next) => {
   ctx.body = {
     code: 0,
     message: '操作成功',

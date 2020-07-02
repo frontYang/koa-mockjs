@@ -1,6 +1,6 @@
 - 目录结构
 
-```
+```txt
 ├─routes
 |   ├─index.js // 路由入口文件
 |   ├─adp // 路由模块
@@ -13,7 +13,7 @@
 ├─README.md
 ```
 
-```
+```txt
 # 监听
 yarn start
 

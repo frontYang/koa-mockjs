@@ -10,12 +10,22 @@
     "delete:pm2": "pm2 delete koa_mockjs"
   },
   "dependencies": {
+    "argon2": "^0.26.2",
     "global": "^4.4.0",
     "koa": "^2.11.0",
+    "koa-bodyparser": "^4.3.0",
     "koa-compose": "^4.1.0",
+    "koa-onerror": "^4.1.0",
     "koa-router": "^8.0.8",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.3.0",
+    "koa2-cors": "^2.0.6",
     "mockjs": "^1.1.0",
+    "mysql": "^2.18.1",
     "pm2": "^4.2.3",
-    "prettier": "^2.0.4"
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
